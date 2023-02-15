@@ -1,1 +1,27 @@
 car_pictures.zip
+Backups/
+blob_storage/
+Cache/
+CachedConfigurations/
+CachedData/
+CachedExtensions/
+CachedExtensionVSIXs/
+Code*Cache/
+Crashpad/
+databases/
+Dictionaries/
+GPUCache/
+Local*Storage/
+logs/
+Service*Worker/
+User/
+WebStorage/
+1.74.3-main.sock
+code.lock
+Cookies
+Cookies-journal
+languagepacks.json
+machineid
+Network\ Persistent\ State
+Preferences
+TransportSecurity
